@@ -1,1 +1,1 @@
-# SWAG-Lab-UI-Test
+# swag-lab-ui-tests
